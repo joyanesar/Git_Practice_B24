@@ -14,7 +14,12 @@ public class Second {
     }
 
     public void  m(String s){
-        System.out.println("third print method");
+        System.out.println("Third  method print ");
 
+
+    }
+
+    public void m(double p){
+        System.out.println("Fourth method print");
     }
 }
