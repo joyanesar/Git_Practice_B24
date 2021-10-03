@@ -11,6 +11,8 @@ public class Third {
         System.out.println();
     }
 
-
+public void m(){
+    System.out.println("printing");
+}
 
 }
