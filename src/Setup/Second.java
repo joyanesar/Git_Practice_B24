@@ -25,4 +25,10 @@ public class Second {
     public void m(double p){
         System.out.println("Fourth method print");
     }
+
+    public  void  h (int o){
+        System.out.println("New method has been add");
+    }
 }
+
+
